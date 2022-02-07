@@ -1,0 +1,6 @@
+﻿  Main.c
+C:\Users\Alexandr\source\repos\СaG\СaG\Goer.h(161,14): warning C4013: updateCinema: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alexandr\source\repos\СaG\СaG\Checks.h(92,16): warning C4013: getCinema: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Alexandr\source\repos\СaG\СaG\Main.c(104,27): warning C4020: updateGoer: слишком много фактических параметров
+C:\Users\Alexandr\source\repos\СaG\СaG\Goer.h(233): warning C4716: deleteGoer: должна возвращать значение
+  СaG.vcxproj -> C:\Users\Alexandr\source\repos\СaG\x64\Debug\СaG.exe
